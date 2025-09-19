@@ -9,7 +9,7 @@ The guide explains:
 - Recommendations for individuals, institutions, and companies.  
 
 ## 📂 Contents
-- `Cybersecurity_Guide.pdf` → The full assignment.  
+- `Cybersecurity Guide.pdf` → The full assignment.  
 - Additional notes and references.  
 
 ## 🔗 Author
