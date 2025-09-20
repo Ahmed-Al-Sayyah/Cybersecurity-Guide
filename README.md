@@ -1,7 +1,5 @@
 # Cybersecurity Guide for Individuals, Institutions, and Companies  
 
-This repository contains my assignment on cybersecurity, prepared for submission to Eng. Imran Malkawi.  
-
 ## 📌 Overview
 The guide explains:
 - Common cybersecurity threats.
